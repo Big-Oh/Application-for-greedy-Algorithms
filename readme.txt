@@ -57,7 +57,5 @@
 6. font
 
 ###Created by:
-	      Kaushiki Taru        -    18103053
-	      Kumari Soni          -    18103054
-	      Lakshay Singhal      -    18103055 
+	      Lakshay Singhal, B.tech CSE, Dr. B R Ambedkar national Institute of Technology
 
